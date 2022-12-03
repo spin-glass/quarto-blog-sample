@@ -1,8 +1,17 @@
 [
   {
+    "listing": "/sample-blog/index.html",
+    "items": [
+      "/sample-blog/posts/post-with-code/index.html",
+      "/sample-blog/posts/welcome/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/sample-blog/posts/post-with-code/index.html",
       "/posts/post-with-code/index.html",
+      "/sample-blog/posts/welcome/index.html",
       "/posts/welcome/index.html"
     ]
   }
