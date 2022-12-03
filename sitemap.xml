@@ -2,34 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://spin-glass.github.io/quarto-blog-sample/posts/post-with-code/index.html</loc>
-    <lastmod>2022-12-03T07:36:10.039Z</lastmod>
+    <lastmod>2022-12-03T07:38:14.274Z</lastmod>
   </url>
   <url>
     <loc>https://spin-glass.github.io/quarto-blog-sample/posts/welcome/index.html</loc>
-    <lastmod>2022-12-03T07:36:10.301Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spin-glass.github.io/quarto-blog-sample/sample-blog/posts/post-with-code/index.html</loc>
-    <lastmod>2022-12-03T07:36:10.544Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spin-glass.github.io/quarto-blog-sample/sample-blog/posts/welcome/index.html</loc>
-    <lastmod>2022-12-03T07:36:10.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spin-glass.github.io/quarto-blog-sample/sample-blog/index.html</loc>
-    <lastmod>2022-12-03T07:36:11.190Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spin-glass.github.io/quarto-blog-sample/sample-blog/about.html</loc>
-    <lastmod>2022-12-03T07:36:11.420Z</lastmod>
+    <lastmod>2022-12-03T07:38:14.522Z</lastmod>
   </url>
   <url>
     <loc>https://spin-glass.github.io/quarto-blog-sample/index.html</loc>
-    <lastmod>2022-12-03T07:36:11.689Z</lastmod>
+    <lastmod>2022-12-03T07:38:14.802Z</lastmod>
   </url>
   <url>
     <loc>https://spin-glass.github.io/quarto-blog-sample/about.html</loc>
-    <lastmod>2022-12-03T07:36:11.928Z</lastmod>
+    <lastmod>2022-12-03T07:38:15.041Z</lastmod>
   </url>
 </urlset>
