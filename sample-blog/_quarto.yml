@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
   title: "sample-blog"
   navbar:
@@ -14,6 +17,3 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
-
-
