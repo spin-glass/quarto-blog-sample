@@ -1,1 +1,0 @@
-Sitemap: https://spin-glass.github.io/quarto-blog-sample/sitemap.xml
